@@ -12,4 +12,3 @@
 - [Tableau Kanban Management](https://anne-laure-diginamic-formation.atlassian.net/jira/core/projects/PM/board)
 - [La présentation powerpoint zippée]()
 
-https://github.com/Datalex0/Digicheese-TP7-CDCT/blob/02594537c5e6c2469353c23baa4133d6d838f847/Note_de_cadrage.pdf
