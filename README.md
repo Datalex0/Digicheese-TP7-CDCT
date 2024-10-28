@@ -1,4 +1,4 @@
-# Digicheese-TP7-CDCT
+# Digicheese - TP7 - CDCT et Note de Cadrage
 
 ##  Collaborateurs :mortar_board: :
 - Anne-Laure LEMAITRE
