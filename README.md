@@ -6,9 +6,9 @@
 - Alexis MURAIL
 
 ## Vous trouverez : 
-- [Le Cahier des Charges Technique](https://github.com/Datalex0/Projet_API/blob/main/Documentation%20Technique.pdf)
-- [La Note de Cadrage](https://github.com/Datalex0/Digicheese-TP7-CDCT/blob/main/.pdf)
+- [Le Cahier des Charges Technique]()
+- [La Note de Cadrage](https://github.com/Datalex0/Digicheese-TP7-CDCT/blob/b37d1edd03c5a2e927f2ed026274ca858a4bb56e/Note_de_cadrage.pdf)
 - 
-- [La présentation powerpoint zippée](https://github.com/Datalex0/Projet_API/blob/main/Presentation_orale.zip)
+- [La présentation powerpoint zippée]()
 - 
 - 
