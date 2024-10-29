@@ -1,5 +1,9 @@
 # Digicheese - TP7 - CDCT et Note de Cadrage
 
+## Projet :
+Ce projet concerne la refonte du système informatique de la fromagerie DIGICHEESE, une PME qui vend ses produits à des distributeurs et à des particuliers, avec un programme de fidélité basé sur des points découpés sur les produits. L'actuelle application, développée sous Microsoft Access 2000, présente de nombreux problèmes (incompatibilités, rigidité, bugs) et n'est plus maintenue. L'objectif est de créer une nouvelle application intranet et en ligne pour simplifier la gestion des commandes, du stock, et des points de fidélité. 
+Le but du projet étant de rédiger un CDCT et une Note de Cadrage tout en décrivant le processus de Management.
+
 ##  Collaborateurs :mortar_board: :
 - Anne-Laure LEMAITRE
 - David MEAUX
